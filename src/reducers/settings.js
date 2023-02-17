@@ -17,7 +17,7 @@ const defState = {
     },
   },
   person: {
-    name: "Blue Edge",
+    name: "Marcos Fraça",
     theme: "light",
     color: "blue",
   },
