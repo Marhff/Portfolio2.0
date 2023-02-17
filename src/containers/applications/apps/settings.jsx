@@ -314,7 +314,7 @@ export const Settings = () => {
                           );
                         case "tile":
                         case "tile square":
-                        case "tile thin-blue":
+                        case "tile Marhf":
                           return (
                             <div key={e.name} className={e.type}>
                               <span className="settingsIcon">{e.icon}</span>

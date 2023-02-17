@@ -211,9 +211,9 @@ export const WnTerminal = () => {
       i18next.changeLanguage("fr-FR");
       tmpStack.push("French");
     } else if (type == "blue") {
-      tmpStack.push("blueedgetechno");
+      tmpStack.push("marhftechno");
     } else if (type == "dev") {
-      tmpStack.push("https://dev.blueedge.me/");
+      tmpStack.push("https://dev.marhf.me/");
     } else if (type == "ver") {
       tmpStack.push("OS [Version 10.0.22000.51]");
     } else if (type == "systeminfo") {

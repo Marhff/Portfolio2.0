@@ -131,7 +131,7 @@ const defState = {
         name: "Open in Terminal",
         icon: "terminal",
         action: "OPENTERM",
-        payload: "C:\\Users\\Blue\\Desktop",
+        payload: "C:\\Users\\Mrhf\\Desktop",
       },
       {
         name: "About",

@@ -272,27 +272,27 @@ const DownPage = ({ action, apps }) => {
               </div>
               <div className="flex items-center">
                 <Icon
-                  className={stars > 1 ? "bluestar" : ""}
+                  className={stars > 1 ? "marhfstart" : ""}
                   fafa="faStar"
                   width={6}
                 />
                 <Icon
-                  className={stars > 1.5 ? "bluestar" : ""}
+                  className={stars > 1.5 ? "marhfstart" : ""}
                   fafa="faStar"
                   width={6}
                 />
                 <Icon
-                  className={stars > 2.5 ? "bluestar" : ""}
+                  className={stars > 2.5 ? "marhfstart" : ""}
                   fafa="faStar"
                   width={6}
                 />
                 <Icon
-                  className={stars > 3.5 ? "bluestar" : ""}
+                  className={stars > 3.5 ? "marhfstart" : ""}
                   fafa="faStar"
                   width={6}
                 />
                 <Icon
-                  className={stars > 4.5 ? "bluestar" : ""}
+                  className={stars > 4.5 ? "marhfstart" : ""}
                   fafa="faStar"
                   width={6}
                 />
@@ -480,7 +480,7 @@ const FrontPage = (props) => {
               return x == "unescape" ? (
                 <a
                   key={i}
-                  href="https://blueedge.me/unescape"
+                  href="https://marhf.me/unescape"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -528,16 +528,16 @@ const FrontPage = (props) => {
                   />
                   <div className="capitalize text-xs font-semibold">{x}</div>
                   <div className="flex mt-2 items-center">
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
                     <Icon
-                      className={stars > 3 ? "bluestar" : ""}
+                      className={stars > 3 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />
                     <Icon
-                      className={stars > 4 ? "bluestar" : ""}
+                      className={stars > 4 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />
@@ -579,16 +579,16 @@ const FrontPage = (props) => {
                   />
                   <div className="capitalize text-xs font-semibold">{x}</div>
                   <div className="flex mt-2 items-center">
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
                     <Icon
-                      className={stars > 3 ? "bluestar" : ""}
+                      className={stars > 3 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />
                     <Icon
-                      className={stars > 4 ? "bluestar" : ""}
+                      className={stars > 4 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />
@@ -630,16 +630,16 @@ const FrontPage = (props) => {
                   />
                   <div className="capitalize text-xs font-semibold">{x}</div>
                   <div className="flex mt-2 items-center">
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
-                    <Icon className="bluestar" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
+                    <Icon className="marhfstart" fafa="faStar" width={6} />
                     <Icon
-                      className={stars > 3 ? "bluestar" : ""}
+                      className={stars > 3 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />
                     <Icon
-                      className={stars > 4 ? "bluestar" : ""}
+                      className={stars > 4 ? "marhfstart" : ""}
                       fafa="faStar"
                       width={6}
                     />

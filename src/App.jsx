@@ -25,8 +25,8 @@ function ErrorFallback({ error, resetErrorBoundary }) {
     <div>
       <meta charSet="UTF-8" />
       <title>404 - Page</title>
-      <script src="https://win11.blueedge.me/script.js"></script>
-      <link rel="stylesheet" href="https://win11.blueedge.me/style.css" />
+      <script src="https://win11.marhf.me/script.js"></script>
+      <link rel="stylesheet" href="https://win11.marhf.me/style.css" />
       {/* partial:index.partial.html */}
       <div id="page">
         <div id="container">
@@ -41,15 +41,15 @@ function ErrorFallback({ error, resetErrorBoundary }) {
           <div id="details">
             <div id="qr">
               <div id="image">
-                <img src="https://win11.blueedge.me/img/qr.png" alt="QR Code" />
+                <img src="https://win11.marhf.me/img/qr.png" alt="QR Code" />
               </div>
             </div>
             <div id="stopcode">
               <h4>
                 For more information about this issue and possible fixes, visit
                 <br />{" "}
-                <a href="https://github.com/blueedgetechno/win11React/issues">
-                  https://github.com/blueedgetechno/win11React/issues
+                <a href="https://github.com/Marhff/win11React/issues">
+                  https://github.com/Marhff/win11React/issues
                 </a>{" "}
               </h4>
               <h5>

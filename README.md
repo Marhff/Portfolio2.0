@@ -1,14 +1,14 @@
 # Win11React
 
-[![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
-[![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/blueedgetechno)
+[![Follow me](https://img.shields.io/github/followers/marhftechno?label=follow%20me&style=social)](https://github.com/marhftechno)
+[![Follow Twitter](https://img.shields.io/twitter/follow/marhftechno?label=Follow%20me&style=social)](https://twitter.com/marhftechno)
 [![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NcjaNdwtnR)
-[![Build & Deploy](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml/badge.svg)](https://github.com/blueedgetechno/win11React/actions/workflows/Build-Deploy.yml)
-[![PR Preview](https://github.com/blueedgetechno/win11React/actions/workflows/pr-preview.yml/badge.svg)](https://github.com/blueedgetechno/win11React/actions/workflows/PR-Preview.yml)
+[![Build & Deploy](https://github.com/Marhff/win11React/actions/workflows/deploy.yml/badge.svg)](https://github.com/Marhff/win11React/actions/workflows/Build-Deploy.yml)
+[![PR Preview](https://github.com/Marhff/win11React/actions/workflows/pr-preview.yml/badge.svg)](https://github.com/Marhff/win11React/actions/workflows/PR-Preview.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
 [![Translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.win11react.com/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blueedgetechno)
+
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
@@ -25,7 +25,7 @@ https://win11react-docs.andrewstech.me/
 
 ## _This project is still a work in progress._
 
-#### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
+#### Live Experience🌈: [win11.marhf.me](https://win11.marhf.me)
 
 ![Home](./public/img/home.jpg)
 
@@ -55,7 +55,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - [x] Themes and Background
 - [x] Multilang Support
 
-📑 [Suggest More](https://github.com/blueedgetechno/win11React/issues/new/choose)
+📑 [Suggest More](https://github.com/Marhff/win11React/issues/new/choose)
 
 # Stack
 
@@ -73,7 +73,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - Did you use any UI/Library?
   - No.
 - Can I contribute?
-  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/blueedgetechno/win11React/discussions) or join the [Discord](https://discord.gg/NcjaNdwtnR).
+  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/Marhff/win11React/discussions) or join the [Discord](https://discord.gg/NcjaNdwtnR).
 - Where did you get the inspiration from, if you have?
   - I got the inspiration from [this youtube video](https://www.youtube.com/watch?v=OtOmxa9UMe8).
 - What is the answer of Life, the Universe, and Everything?
@@ -93,7 +93,7 @@ If you believe this project has potential, feel free to **star this repo** just 
 # Docker
 
 To use docker use the following command:
-`docker run -d --restart unless-stopped --name win11react -p 3000:3000 blueedge/win11react:latest`
+`docker run -d --restart unless-stopped --name win11react -p 3000:3000 marhf/win11react:latest`
 
 # Home Assistant
 
@@ -101,33 +101,33 @@ To use docker use the following command:
 
 # Balena-Cloud
 
-[![Balena Deploy Button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/blueedgetechno/win11React)
+[![Balena Deploy Button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Marhff/win11React)
 
 ---
 
 # Compiled
 
-You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/blueedgetechno/win11React/releases)
+You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/Marhff/win11React/releases)
 
 **WINGET - WINDOWS PACKAGE MANAGER**
 If you have one of the latest windows builds then you can enter the command below in **CMD**
 
-`winget install blueedge.win11react`
+`winget install marhf.win11react`
 
 ## Online Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fblueedgetechno%2Fwin11React&envs=PORT&PORTDesc=Port+of+the+application&PORTDefault=3000&referralCode=BatemaDevelopment)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmarhftechno%2Fwin11React&envs=PORT&PORTDesc=Port+of+the+application&PORTDefault=3000&referralCode=BatemaDevelopment)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blueedgetechno/win11React)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Marhff/win11React)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fblueedgetechno%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.blueedge.me%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmarhftechno%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.marhf.me%2F)
 
 ## Contributors
 
-<a href="https://github.com/blueedgetechno/win11React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React" />
+<a href="https://github.com/Marhff/win11React/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=marhftechno/win11React" />
 </a>
 
 ### Known Issues

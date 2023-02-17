@@ -74,9 +74,9 @@
               "Public Videos": {}
             }
           },
-          "Blue": {
+          "Marhf": {
             "type": "folder",
-            "name": "Blue",
+            "name": "Marhf",
             "info": {
               "spid": "%user%",
               "icon": "user"
@@ -165,7 +165,7 @@
                   "icon": "vid"
                 },
                 "data": {
-                  "porn-collection": {}
+                  "Best Moments": {}
                 }
               },
               "Github": {
@@ -174,21 +174,19 @@
                 },
                 "data": {
                   "atomforces": {},
-                  "blueapi": {},
-                  "BlueBlog": {},
-                  "BlueBlogs---A-social-platform": {},
-                  "blueedgetechno": {},
-                  "blueedgetechno.github.io": {},
-                  "blueimage": {},
-                  "bluelab": {},
-                  "blueothello": {},
-                  "blueweb": {},
-                  "codeblue": {},
+                  "Marhfapi": {},
+                  "MarhfBlog": {},
+                  "MarhfBlogs---A-social-platform": {},
+                  "Marhfedgetechno": {},
+                  "Marhfedgetechno.github.io": {},
+                  "Marhfimage": {},
+                  "Marhflab": {},
+                  "Marhfweb": {},
+                  "codeMarhf": {},
                   "handwritten-digit-recognition": {},
                   "jiosaavn": {},
                   "jiosaavn-api": {},
                   "minesweeper": {},
-                  "othello": {},
                   "Saavn-Downloader": {},
                   "Sanfoundary": {}
                 }

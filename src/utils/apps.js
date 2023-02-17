@@ -46,13 +46,7 @@ const apps = [
     type: "app",
     action: "MSEDGE",
   },
-  {
-    name: "Buy me a coffee",
-    icon: "buyme",
-    type: "app",
-    action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
-  },
+  
   {
     name: "Store",
     icon: "store",
@@ -129,7 +123,7 @@ const apps = [
     icon: "mail",
     type: "app",
     action: "EXTERNAL",
-    payload: "mailto:blueedgetechno@gmail.com",
+    payload: "mailto:marhftechno@gmail.com",
   },
   {
     name: "Movies",
@@ -197,7 +191,7 @@ const apps = [
     icon: "pinterest",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.pinterest.com/blueedgetechno/",
+    payload: "https://www.pinterest.com/marhftechno/",
   },
   {
     name: "Security",
@@ -230,7 +224,7 @@ const apps = [
     icon: "twitter",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://twitter.com/blueedgetechno",
+    payload: "https://twitter.com/marhftechno",
   },
   {
     name: "Teams",
@@ -284,14 +278,14 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/blueedgetechno/win11React",
+    payload: "https://github.com/Marhff/win11React",
   },
   {
     name: "Unescape",
     icon: "unescape",
     type: "action",
     action: "EXTERNAL",
-    payload: "https://blueedge.me/unescape",
+    payload: "https://marhf.me/unescape",
   },
   {
     name: "Discord",

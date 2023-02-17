@@ -342,7 +342,7 @@ const NavPane = ({}) => {
             notoggle
             pinned
           />
-          <Dropdown icon="user" title="Blue" spid="%user%" notoggle pinned />
+          <Dropdown icon="user" title="Marhf" spid="%user%" notoggle pinned />
           <Dropdown
             icon="docs"
             title="Documents"
@@ -362,7 +362,7 @@ const NavPane = ({}) => {
           <Dropdown icon="pics" title="Pictures" spid="%pictures%" />
           <Dropdown icon="vid" title="Videos" spid="%videos%" />
           <Dropdown icon="disc" title="OS (C:)" spid="%cdrive%" />
-          <Dropdown icon="disk" title="Blue (D:)" spid="%ddrive%" />
+          <Dropdown icon="disk" title="Marhf (D:)" spid="%ddrive%" />
         </Dropdown>
       </div>
     </div>

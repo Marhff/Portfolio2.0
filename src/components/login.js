@@ -17,7 +17,7 @@ const githubLoginProvider = new firebase.auth.GithubAuthProvider();
 async function login() {
   auth.signInWithPopup(githubLoginProvider).then((res) => {
     const token = res.credential.accessToken;
-    const user = res.additionalUserInfo.username;
+    const user = res.additionalUserInfo.Marhf;
     const email = res.user.email;
     console.log(res);
   });

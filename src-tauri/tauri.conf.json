@@ -17,13 +17,13 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "blueedgetechno",
+      "copyright": "marhftechno",
       "deb": {
         "depends": []
       },
       "externalBin": [],
       "icon": ["icons/icon.ico"],
-      "identifier": "com.blueedgetechno.win11react",
+      "identifier": "com.marhftechno.win11react",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
