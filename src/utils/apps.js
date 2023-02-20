@@ -59,11 +59,6 @@ const apps = [
     type: "app",
   },
   {
-    name: "Blue",
-    icon: "win/user",
-    type: "short",
-  },
-  {
     name: "Alarms",
     icon: "alarm",
     type: "app",
@@ -111,19 +106,15 @@ const apps = [
     icon: "help",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://win11react-docs.andrewstech.me/",
+    payload: "",
   },
-  {
-    name: "Yammer",
-    icon: "yammer",
-    type: "app",
-  },
+  
   {
     name: "Mail",
     icon: "mail",
     type: "app",
     action: "EXTERNAL",
-    payload: "mailto:marhftechno@gmail.com",
+    payload: "mailto:contato.marcosfranca@outlook.com",
   },
   {
     name: "Movies",
@@ -191,7 +182,7 @@ const apps = [
     icon: "pinterest",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.pinterest.com/marhftechno/",
+    payload: "",
   },
   {
     name: "Security",
@@ -224,7 +215,7 @@ const apps = [
     icon: "twitter",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://twitter.com/marhftechno",
+    payload: "https://twitter.com/MarcosOdev",
   },
   {
     name: "Teams",

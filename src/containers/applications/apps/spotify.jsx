@@ -35,10 +35,7 @@ export const Spotify = () => {
 
   const libr = [
     "Made For You",
-    "Recently Played",
     "Favorite Songs",
-    "Albums",
-    "Artist",
   ];
   const action = (e) => {
     var act = e.target.dataset.action,
@@ -298,21 +295,7 @@ export const Spotify = () => {
                         {lib}
                       </div>
                     ))}
-                    <div className="text-gray-500 font-semibold text-xs tracking-widest mt-12 mb-4">
-                      PLAYLISTS
-                    </div>
-                    {data.playlist.map((play, i) => (
-                      <div
-                        className="snav mb-4 handcr text-sm font-semibold"
-                        key={i}
-                        data-act={tab == i + 2 + libr.length}
-                        onClick={action}
-                        data-action="playlist"
-                        data-payload={i}
-                      >
-                        {play.name}
-                      </div>
-                    ))}
+                    
                   </div>
                 </div>
               </div>

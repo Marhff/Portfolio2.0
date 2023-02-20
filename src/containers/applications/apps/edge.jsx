@@ -4,7 +4,7 @@ import { Icon, ToolBar, LazyComponent } from "../../../utils/general";
 
 export const EdgeMenu = () => {
   const wnapp = useSelector((state) => state.apps.edge);
-  const [url, setUrl] = useState("https://www.google.com/?igu=1");
+  const [url, setUrl] = useState("https://portfolio-marhf.vercel.app");
   const [ierror, setErr] = useState(true);
   const [isTyping, setTyping] = useState(false);
   const [hist, setHist] = useState(["https://bing.com", "https://bing.com"]);
@@ -13,11 +13,11 @@ export const EdgeMenu = () => {
   const iframes = {
     "https://www.google.com/webhp?igu=1": "Google",
     "https://bing.com": "Bing",
-    "https://www.youtube.com/embed/m0EHSoZzHEA": "Youtube",
+    "https://youtube.com.br": "Youtube",
 
-    "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN":
+    "https://open.spotify.com/playlist/3RZ04WVatUf8weBJZDcw8l?si=ac503f3d1daf4a34":
       "Spotify",
-    "https://marhf.vercel.app": "Portfolio",
+    "https://portfolio-marhf.vercel.app": "Portfolio",
   };
 
   const favicons = {
