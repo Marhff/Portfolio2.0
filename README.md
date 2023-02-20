@@ -1,45 +1,11 @@
-# Win11React
 
-[![Follow me](https://img.shields.io/github/followers/marhftechno?label=follow%20me&style=social)](https://github.com/marhftechno)
-[![Follow Twitter](https://img.shields.io/twitter/follow/marhftechno?label=Follow%20me&style=social)](https://twitter.com/marhftechno)
-[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NcjaNdwtnR)
-[![Build & Deploy](https://github.com/Marhff/win11React/actions/workflows/deploy.yml/badge.svg)](https://github.com/Marhff/win11React/actions/workflows/Build-Deploy.yml)
-[![PR Preview](https://github.com/Marhff/win11React/actions/workflows/pr-preview.yml/badge.svg)](https://github.com/Marhff/win11React/actions/workflows/PR-Preview.yml)
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
-[![Translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.win11react.com/)
+#### Live Experience: (https://win11-react-alpha.vercel.app)
 
+## Under development
 
+# Status
 
-This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
-
-## Notice
-
-> This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
-> This is **not** a Windows 365 cloud PC.
-
-**THIS IS NOT THE APP STORE REPO**:
-[App Store](https://github.com/win11react/store)
-
-**Documentation**:
-https://win11react-docs.andrewstech.me/
-
-## _This project is still a work in progress._
-
-#### Live Experience🌈: [win11.marhf.me](https://win11.marhf.me)
-
-![Home](./public/img/home.jpg)
-
-# Gallery
-
-![image](https://user-images.githubusercontent.com/89068816/154832868-6ec81a0b-0bc3-4e77-a4bf-3391b852fe9c.png)
-
-![pic1](./public/img/gallery2.jpg)
-
-![image](https://user-images.githubusercontent.com/89068816/154832942-b3e435dd-5fe4-4bc1-a9be-34262698625d.png)
-
-# Why
-
-WHY NOT? Why not just waste a week of your life creating a React project, just to cover up your insecurities of how incompetent you are. Just why not!
+Project made based on the fork repository, Project still under construction
 
 # Features
 
@@ -48,14 +14,14 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - [x] Side Navigation and Calendar View
 - [x] Snap windows in different layouts
 - [x] Browser, Store, Terminal, Calculator
-- [x] Notepad, Vscode, Whiteboard
+- [x] Notepad, Whiteboard
 - [x] File Explorer + Setting
 - [x] Drag and Resize windows
 - [x] Startup and Lock screen
 - [x] Themes and Background
 - [x] Multilang Support
 
-📑 [Suggest More](https://github.com/Marhff/win11React/issues/new/choose)
+
 
 # Stack
 
@@ -64,80 +30,6 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - Styling Solution - SCSS and CSS Modules (tailwind).
 - Icons - fontawesome
 
-## FAQ
-
-- Is this the full operating system?
-  - No, This is not a full operating system and It is also not affiliated by Microsoft in anyway.
-- How long did it take?
-  - Honestly It took 2-3 days collecting assets, 2-3 planning and about 6 days programming it.
-- Did you use any UI/Library?
-  - No.
-- Can I contribute?
-  - Yes, you can! Open an issue, create a pull request, head over to [discussions](https://github.com/Marhff/win11React/discussions) or join the [Discord](https://discord.gg/NcjaNdwtnR).
-- Where did you get the inspiration from, if you have?
-  - I got the inspiration from [this youtube video](https://www.youtube.com/watch?v=OtOmxa9UMe8).
-- What is the answer of Life, the Universe, and Everything?
-  - 42
-
-![Answer](./public/answer.png)
-
-## 🌟 Star this project
-
-### [⏫ Scroll to the ⭐️ button](#start-of-content)
-
-If you believe this project has potential, feel free to **star this repo** just like many amazing people have 👇
-![](https://user-images.githubusercontent.com/89068816/188550244-3cd2bca6-7135-418f-9dcd-25ea6bd96d5f.gif)
-
-## Local Deployment
-
-# Docker
-
-To use docker use the following command:
-`docker run -d --restart unless-stopped --name win11react -p 3000:3000 marhf/win11react:latest`
-
-# Home Assistant
-
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Funofficial-skills%2Faddons)
-
-# Balena-Cloud
-
-[![Balena Deploy Button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Marhff/win11React)
-
----
-
-# Compiled
-
-You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/Marhff/win11React/releases)
-
-**WINGET - WINDOWS PACKAGE MANAGER**
-If you have one of the latest windows builds then you can enter the command below in **CMD**
-
-`winget install marhf.win11react`
-
-## Online Deployment
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmarhftechno%2Fwin11React&envs=PORT&PORTDesc=Port+of+the+application&PORTDefault=3000&referralCode=BatemaDevelopment)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Marhff/win11React)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmarhftechno%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.marhf.me%2F)
-
-## Contributors
-
-<a href="https://github.com/Marhff/win11React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=marhftechno/win11React" />
-</a>
-
-### Known Issues
-
-- Blur not working in Firefox browser.
-
-###### Solution:
-
-1. Open `about:config` in your firefox browser.
-2. Search for `layout.css.backdrop-filter.enabled` and set it to `true`.
 
 ## License
 
