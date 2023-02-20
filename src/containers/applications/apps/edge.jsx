@@ -17,7 +17,7 @@ export const EdgeMenu = () => {
 
     "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN":
       "Spotify",
-    "https://marhf.netlify.app": "Portfolio",
+    "https://marhf.vercel.app": "Portfolio",
   };
 
   const favicons = {
