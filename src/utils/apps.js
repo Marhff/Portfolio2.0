@@ -41,7 +41,7 @@ const apps = [
     action: "EXPLORER",
   },
   {
-    name: "Browser",
+    name: "Portfolio",
     icon: "edge",
     type: "app",
     action: "MSEDGE",
